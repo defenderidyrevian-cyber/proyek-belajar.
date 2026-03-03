@@ -1,2 +1,2 @@
 "ini baris pertama saya" 
-"ini baris kedua saya" 
+"ini baris kedua saya." 
